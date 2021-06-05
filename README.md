@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arasa  `
+- 👋 Hi, I’m Arasan
 - 👀 I’m interested in Machine Learning, AI, ITSM, Python
 - 🌱 I’m currently learning PGDMLAI
 - 💞️ I’m looking to collaborate on any ML Projects
