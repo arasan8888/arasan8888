@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arasan
-- 👀 I’m interested in Machine Learning, AI, ITSM, Python
-- 🌱 I’m currently learning PGDMLAI
+- 👀 I’m interested in Machine Learning, AI, ML, Python, Story Telling, Problem Solving
+- 🌱 I’m currently working as Lead ML Engineer
 - 💞️ I’m looking to collaborate on any ML Projects
 - 📫 Drop me an email @ arasan8888@gmail.com
 
